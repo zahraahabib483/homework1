@@ -1,0 +1,22 @@
+[
+    {"question": "ما هو 5 + 3", "answer": "8"},
+    {"question": "ما هو 7 - 2", "answer": "5"},
+    {"question": "ما هو 6 * 3", "answer": "18"},
+    {"question": "ما هو 12 / 4", "answer": "3"},
+    {"question": "ما هو 9 + 1", "answer": "10"},
+    {"question": "ما هو 8 - 4", "answer": "4"},
+    {"question": "ما هو 7 * 2", "answer": "14"},
+    {"question": "ما هو 16 / 2", "answer": "8"},
+    {"question": "ما هو 10 + 5", "answer": "15"},
+    {"question": "ما هو 11 - 3", "answer": "8"},
+    {"question": "ما هو 4 * 4", "answer": "16"},
+    {"question": "ما هو 20 / 5", "answer": "4"},
+    {"question": "ما هو 14 + 6", "answer": "20"},
+    {"question": "ما هو 18 - 7", "answer": "11"},
+    {"question": "ما هو 3 * 5", "answer": "15"},
+    {"question": "ما هو 25 / 5", "answer": "5"},
+    {"question": "ما هو 13 + 7", "answer": "20"},
+    {"question": "ما هو 19 - 9", "answer": "10"},
+    {"question": "ما هو 2 * 8", "answer": "16"},
+    {"question": "ما هو 24 / 6", "answer": "4"}
+]
